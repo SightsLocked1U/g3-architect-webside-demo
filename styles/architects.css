@@ -64,6 +64,9 @@
 /* banner related style */
 .banner-content {
   max-width: 850px;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
   margin: 0 auto;
   text-align: center;
   margin-bottom: 50px;
